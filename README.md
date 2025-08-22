@@ -17,10 +17,10 @@
 ## 🛠️ Skills & Tools  
 
 **Languages & Frameworks:**  
-`HTML` `CSS` `JavaScript` `PHP` `Python` `Node.js` `React` `C#` `Java`  
+`HTML` `CSS` `JavaScript` `PHP` `Python` `Node.js` `React` `C#`  
 
 **Web Development & CMS:**  
-`WordPress` `WooCommerce` `Elementor` `Custom CMS`  
+`WordPress` `WooCommerce` `Elementor` `Custom CMS` `WHMCS`  
 
 **Databases:**  
 `MySQL` `Oracle` `MongoDB`  
@@ -30,13 +30,6 @@
 
 **Other Tools:**  
 `Git` `GitHub` `VS Code` `Docker`  
-
----
-
-## 📊 GitHub Stats  
-
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajjadAliBabar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadAliBabar&layout=compact&theme=tokyonight)  
 
 ---
 
