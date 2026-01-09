@@ -24,7 +24,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Development-orange)](https://www.patreon.com/DevSajjadAli)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devsajjadali&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
