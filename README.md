@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sajjad Ali Babar  
 
 🌐 **Web Developer | Cloud Enthusiast | AI Explorer**  
-📍 Based in Pakistan | 📧 info@sajjadalibabar.live | 📞 +92 370 4604266  
+📍 Based in Pakistan | 📧 sajjadali@dev2production.com | 📞 +92 370 4604266  
 🌍 [sajjadalibabar.live](https://sajjadalibabar.live)  
 
 ---
